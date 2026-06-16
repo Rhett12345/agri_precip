@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+cache/
+figures/
+.claude/
+*.npz
+*.png
+*.svg
+*.zip
+.env
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
